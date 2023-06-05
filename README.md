@@ -37,7 +37,8 @@ Features
 The website offers the following features:
 
     Responsive Design: The website is built with responsive design principles in mind, ensuring a consistent experience across different devices and screen sizes.
-     ![Screenshot (425)](https://github.com/mandalnitesh/Codenet_task1/assets/135643300/39172aaa-67c2-4d65-8298-b9f786a8a0eb)
+    
+![Screenshot (425)](https://github.com/mandalnitesh/Codenet_task1/assets/135643300/39172aaa-67c2-4d65-8298-b9f786a8a0eb)
      
 ![Screenshot (426)](https://github.com/mandalnitesh/Codenet_task1/assets/135643300/68cc0593-3303-4b4a-b0e8-e918d7d49d25)
 
@@ -68,6 +69,8 @@ Usage
 The Coffice Shop website can be used to showcase our coffee shop and its offerings to potential customers. It can be deployed on a web server to make it accessible to a wider audience.
 
 To customize the website according to your specific needs, you can modify the HTML and CSS files. Update the content, images, colors, and styles to reflect your brand and preferences. Be sure to test the website thoroughly after making any changes.
+
+
 File Structure
 
 The file structure of the project is as follows:
