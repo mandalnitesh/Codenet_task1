@@ -5,29 +5,29 @@ Coffice Shop Website
 This is the README file for the Coffice Shop website. The website was created using HTML and CSS and is designed to showcase and provide information about the Coffice Shop.
 Table of Contents
 
-#Home
+**#Home**
 ![Screenshot (417)](https://github.com/mandalnitesh/Codenet_task1/assets/135643300/4d82e847-bb30-48bc-896f-210ef5d1cb62)
 
-#About
+**#About**
 ![Screenshot (418)](https://github.com/mandalnitesh/Codenet_task1/assets/135643300/a1eb4028-bc97-477b-bc13-e29b521e410d)
 
 #Menu
 ![Screenshot (419)](https://github.com/mandalnitesh/Codenet_task1/assets/135643300/159315cd-b8dc-4a78-9e2e-5a0186f9e764)
 
-#Product
+**#Product**
 ![Screenshot (428)](https://github.com/mandalnitesh/Codenet_task1/assets/135643300/fad8ccec-bff2-45c6-b39c-ad7c4ee6cc66)
 
 
-#Gallary
+**#Gallary**
 ![Screenshot (420)](https://github.com/mandalnitesh/Codenet_task1/assets/135643300/a022c157-9213-4deb-ae39-0f05ac90300b)
 
-#Contact
+**#Contact**
 ![Screenshot (421)](https://github.com/mandalnitesh/Codenet_task1/assets/135643300/af1d3863-020c-48cd-aae3-406909d607fb)
 
-#Blogs
+**#Blogs**
 ![Screenshot (422)](https://github.com/mandalnitesh/Codenet_task1/assets/135643300/98ee497f-3623-4deb-b256-e0df3e68ac79)
 
-# Footer
+**# Footer**
 ![Screenshot (423)](https://github.com/mandalnitesh/Codenet_task1/assets/135643300/05188dda-cbfb-4c67-9bde-23e4d2d07b71)
 
 
@@ -38,7 +38,9 @@ The website offers the following features:
 
     Responsive Design: The website is built with responsive design principles in mind, ensuring a consistent experience across different devices and screen sizes.
      ![Screenshot (425)](https://github.com/mandalnitesh/Codenet_task1/assets/135643300/39172aaa-67c2-4d65-8298-b9f786a8a0eb)
+     
 ![Screenshot (426)](https://github.com/mandalnitesh/Codenet_task1/assets/135643300/68cc0593-3303-4b4a-b0e8-e918d7d49d25)
+
 ![Screenshot (427)](https://github.com/mandalnitesh/Codenet_task1/assets/135643300/6e5ba6b9-e641-4568-8065-703eb68f21fd)
 
     Home Page: The home page welcomes visitors and provides a brief introduction to our coffee shop. It includes attractive images, a call-to-action button, and highlights of our specialties.
